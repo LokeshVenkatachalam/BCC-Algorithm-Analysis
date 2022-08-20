@@ -10,5 +10,5 @@
 
 ## Jen Schmidt 
   
-  - [https://doi.org/10.1016/j.ipl.2013.01.016] (https://doi.org/10.1016/j.ipl.2013.01.016)
+  - [https://doi.org/10.1016/j.ipl.2013.01.016](https://doi.org/10.1016/j.ipl.2013.01.016)
   - [@yash4242]( https://github.com/yash4242 )
