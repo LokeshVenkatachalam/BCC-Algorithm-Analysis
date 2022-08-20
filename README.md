@@ -2,5 +2,6 @@
 
 Intro-To-Algorthim-Engineering Project
 
-Tarjan      | @LokeshVenkatachalam | Lokesh Venkatachalam
-Jen Schmidt | @yash4242            | Yash Mehan 
+@LokeshVenkatachalam | Lokesh Venkatachalam
+
+@yash4242            | Yash Mehan 
